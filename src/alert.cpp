@@ -11,6 +11,7 @@
 #include "sync.h"
 #include "ui_interface.h"
 
+
 using namespace std;
 
 map<uint256, CAlert> mapAlerts;
